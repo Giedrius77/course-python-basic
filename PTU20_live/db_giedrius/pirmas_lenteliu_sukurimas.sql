@@ -6,3 +6,4 @@ pavarde VARCHAR(50),
 adresas VARCHAR(100),
 email VARCHAR(100)
 );
+DROP TABLE clients;
