@@ -1,0 +1,8 @@
+
+CREATE TABLE clients(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+vardas VARCHAR(50),
+pavarde VARCHAR(50),
+adresas VARCHAR(100),
+email VARCHAR(100)
+);
