@@ -26,4 +26,4 @@ UPDATE clients SET first_name = "Keistas" WHERE id = 3;
 UPDATE clients SET last_name = "Mergiene" WHERE last_name = "Mergaite";
 
 DELETE FROM clients WHERE id > 3;
-DELETE FROM clients;
+DELETE FROM clients; 
