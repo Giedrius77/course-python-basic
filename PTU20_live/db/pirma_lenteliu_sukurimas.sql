@@ -7,4 +7,6 @@ CREATE TABLE clients (
 );
 
 ALTER TABLE clients ADD address TEXT(1000);
+ALTER TABLE clients DROP address;
+
 DROP TABLE clients;
